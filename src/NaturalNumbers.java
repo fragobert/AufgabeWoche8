@@ -2,7 +2,11 @@ public class NaturalNumbers implements Number{
 
     @Override
     public void add(NaturalNumbers number) {
-        return 
+    }
+
+    @Override
+    public void add(Number otherNumber) {
+
     }
 
     @Override
