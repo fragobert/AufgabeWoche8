@@ -1,6 +1,6 @@
 public interface Number {
 
-    void add(NaturalNumbers number);
+    void add(Number number);
 
     void add(Number otherNumber);
     void subtract(Number otherNumber);
